@@ -17,9 +17,14 @@ fun main() {
 
             Span({ style { padding(15.px) } }) {
                 Text("$count")
+                Img(
+                    src = "https://github.com/DaiShiba/DaiShiba.github.io/blob/main/docs/koro.png"
+                )
             }
 
             FloatingActionButton("add") { onClick { count += 1 } }
+
+
         }
     }
 }
