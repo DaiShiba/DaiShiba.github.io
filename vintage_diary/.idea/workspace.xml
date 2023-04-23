@@ -7,6 +7,8 @@
     <list default="true" id="fc739c1d-eb95-46d4-810d-1a12a1e11793" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../docs/vintage_diary.js" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/vintage_diary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../docs/vintage_diary.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/vintage_diary.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jsMain/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/jsMain/resources/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
