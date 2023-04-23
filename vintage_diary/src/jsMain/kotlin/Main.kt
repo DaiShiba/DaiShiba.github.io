@@ -17,14 +17,12 @@ fun main() {
             }
         }) {
             Span {
-                Img(
-                    src = "https://github.com/DaiShiba/DaiShiba.github.io/blob/main/docs/koro.png?raw=true",
-                ) {
+                Img(attrs = {
                     style {
                         width(60.px)
                         height(60.px)
                     }
-                }
+                }, src = "https://github.com/DaiShiba/DaiShiba.github.io/blob/main/docs/koro.png?raw=true")
             }
         }
     }
